@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Event Management System</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Welcome to Event Management System</h1>
+    <p>This is the homepage that is accessible without authentication.</p>
+    
+    <div>
+        <h2>Available Actions:</h2>
+        <ul>
+            <li><a href="/api/auth/login">Login</a></li>
+            <li><a href="/api/events/all">View All Events</a> (requires authentication)</li>
+        </ul>
+    </div>
+</body>
+</html>
