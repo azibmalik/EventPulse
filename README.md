@@ -566,4 +566,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **EventPulse** - Bringing people together through memorable events. 🎉
 
-Created with ❤️
+Created with ❤️ by Azib Malik!
